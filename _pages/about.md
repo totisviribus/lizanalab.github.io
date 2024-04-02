@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://icelab.se'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://icelab.se'>Integrated Science Lab (IceLab)</a>. Umeå University, Umeå (Sweden).
 
 profile:
   align: right
@@ -11,14 +11,18 @@ profile:
   address:
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-LizanaLab conducts groundbreaking research in epigenetics, chromosome organization, gene regulation, and aging. They develop epigenetic clocks to measure biological age and explore interventions for abnormal aging. The team investigates histone methylation dynamics and the role of Polycomb complexes in gene expression. Their innovative network analysis methods reveal the principles of 3D chromosome folding and its impact on transcription and DNA repair. By combining computational modeling, theoretical approaches, and experimental data, LizanaLab advances our understanding of these vital biological processes, offering potential insights for future therapies.
+The life sciences have witnessed an unprecedented surge in data, encompassing genomics, transcriptomics, proteomics, and imaging technologies. While statistical and machine-learning approaches have provided valuable insights, they often lack the ability to unveil cause-and-effect relationships. Therefore, our group takes a different approach; we specialize in developing mechanistic models that integrate diverse datasets, offering deeper insights into biological processes and enhancing the reliability of predictions.
 
-LizanaLab conducts groundbreaking research in epigenetics, chromosome organization, gene regulation, and aging. They develop epigenetic clocks to measure biological age and explore interventions for abnormal aging. The team investigates histone methylation dynamics and the role of Polycomb complexes in gene expression. Their innovative network analysis methods reveal the principles of 3D chromosome folding and its impact on transcription and DNA repair. By combining computational modeling, theoretical approaches, and experimental data, LizanaLab advances our understanding of these vital biological processes, offering potential insights for future therapies.
+In collaboration with experimentalists, we tackle a wide array of topics, including biological networks, gene regulation, epigenetics, aging, intermittent search problems, polymer physics, and DNA folding in the cell nucleus. Additionally, we engage in interdisciplinary collaborations with earth scientists, employing network models to calculate CO2 emissions in the Arctic.
 
-LizanaLab conducts groundbreaking research in epigenetics, chromosome organization, gene regulation, and aging. They develop epigenetic clocks to measure biological age and explore interventions for abnormal aging. The team investigates histone methylation dynamics and the role of Polycomb complexes in gene expression. Their innovative network analysis methods reveal the principles of 3D chromosome folding and its impact on transcription and DNA repair. By combining computational modeling, theoretical approaches, and experimental data, LizanaLab advances our understanding of these vital biological processes, offering potential insights for future therapies.
+Explore our website to learn more about our ongoing projects, publications, and opportunities for collaboration.
+
+
+
+
 

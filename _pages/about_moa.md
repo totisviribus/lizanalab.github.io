@@ -1,0 +1,5 @@
+In 2019 Moa started her PhD with [Yuri Schwartz](https://www.umu.se/en/research/groups/yuri-schwartz/) from the Department of Molecular Biology, with Ludvig Lizana as co-supervisior. Moa has a master’s degree in Engineering Biotechnology from Umeå University, with a specialization in bioinformatics.
+
+She is interested in epigenetics, especially the function of Polycomb Group proteins. Working on two projects with different approaches she hopes to reach a fuller understanding. One is the analysis of experimental data to see how the right genes are turned off in human cells. The other is modelling the mechanisms of Polycomb Group proteins to understand how they achieve their function.
+
+Moa loves stories in all formats, from novels to animation and video games. Her format of choice for her own creations is digital drawings.
