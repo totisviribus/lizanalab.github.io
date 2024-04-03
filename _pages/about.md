@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://icelab.se'>Integrated Science Lab (IceLab)</a>. Umeå University, Umeå (Sweden).
+subtitle:
 
 profile:
   align: right
