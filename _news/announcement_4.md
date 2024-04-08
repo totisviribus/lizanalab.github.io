@@ -11,7 +11,7 @@ related_posts: false
 ## A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation
 
 
-Lucas Hedström and Ralf Metzler and Ludvig Lizana, 
+Lucas Hedström, [Ralf Metzler](https://www.agnld.uni-potsdam.de) and Ludvig Lizana, 
 
 [arXiv:2402.09209](https://doi.org/10.48550/arXiv.2402.09209)
 
@@ -32,7 +32,7 @@ Cells regulate fates and complex body plans using spatiotemporal signaling casca
 
 ```
 @article{hedstrom2024general,
-	title={A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in 	long-distant 3D gene regulation},
+	title={A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation},
   	author={Lucas Hedstr\"om and Ralf Metzler and Ludvig Lizana},
   	journal={arXiv:2402.09209},
   	year={2024},
