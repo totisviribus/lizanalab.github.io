@@ -15,7 +15,7 @@
   
   
     
-      news | lizanalab's website
+      We published a new article on arXiv! | lizanalab's website
     
   
 </title>
@@ -55,7 +55,7 @@
   <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
 
 <link rel="stylesheet" href="/assets/css/main.css?d41d8cd98f00b204e9800998ecf8427e">
-<link rel="canonical" href="https://lizanalab/news/">
+<link rel="canonical" href="https://lizanalab/news/announcement_%20stable_com/">
 
 <!-- Dark Mode -->
 
@@ -101,8 +101,6 @@
 
           <!-- Other pages -->
           
-          
-            
           
             
           
@@ -251,79 +249,88 @@
     <!-- Content -->
     <div class="container mt-5" role="main">
       
-        <div class="post">
+        
+
+
+
+
+
+
+
+<div class="post">
   <header class="post-header">
-    <h1 class="post-title">news</h1>
-    <p class="post-description"></p>
+    <h1 class="post-title">We published a new article on arXiv!</h1>
+    <p class="post-meta">
+      May 10, 2024
+      
+      
+    </p>
+    <p class="post-tags">
+      
+        <i class="fa-solid fa-calendar fa-sm"></i> 2024
+      
+      
+
+      
+    </p>
   </header>
 
-  <article>
-    <div class="news">
-  
+  <article class="post-content">
     
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        
-        
-          <tr>
-            <th scope="row" style="width: 20%">May 10, 2024</th>
-            <td>
-              
-                <a class="news-title" href="/news/announcement_%20stable_com/">We published a new article on arXiv!</a>
-              
-            </td>
-          </tr>
-        
-          <tr>
-            <th scope="row" style="width: 20%">Apr 26, 2024</th>
-            <td>
-              
-                Moa’s PhD defense, 13.00, NAT.D.410 (<a href="https://www.umu.se/en/events/moa-lundkvist--molecular-biology_11914359/" rel="external nofollow noopener" target="_blank">official announcement</a>).
+    <div id="markdown-content">
+      <h2 id="identifying-stable-communities-in-hi-c-using-multifractal-network-modularity">Identifying stable communities in Hi-C using multifractal network modularity</h2>
 
-              
-            </td>
-          </tr>
-        
-          <tr>
-            <th scope="row" style="width: 20%">Apr 08, 2024</th>
-            <td>
-              
-                We welcome <a href="https://sites.google.com/view/sg-yang/" rel="external nofollow noopener" target="_blank">Dr. Seong-Guy Yang</a> as a new postdoc to the group!
+<p>Lucas Hedström, Ant'on Carcedo Mart'inez,  and Ludvig Lizana,</p>
 
-              
-            </td>
-          </tr>
-        
-          <tr>
-            <th scope="row" style="width: 20%">Mar 02, 2024</th>
-            <td>
-              
-                Review paper appering on April 10 in Science Advances: <em>The scales, mechanisms, and dynamics of the genome architecture</em>, by Ludvig Lizana and Yuri B. Schwartz.
+<p><a href="https://arxiv.org/abs/2405.05425" rel="external nofollow noopener" target="_blank">arXiv:2405.05425</a></p>
 
-              
-            </td>
-          </tr>
+<p>Chromosome capture techniques like Hi-C have expanded our understanding of mammalian genome 3D architecture and how it influences gene activity. To analyze Hi-C data sets, researchers increasingly treat them as DNA-contact networks and use standard community detection techniques to identify mesoscale 3D communities. However, there are considerable challenges in finding significant communities because the Hi-C networks have cross-scale interactions and are almost fully connected.  This paper presents a pipeline to distill 3D communities that remain intact under experimental noise. To this end, we bootstrap an ensemble of Hi-C datasets representing noisy data and extract 3D communities that we compare with the unperturbed dataset. Notably, we extract the communities by maximizing local modularity (using the Generalized Louvain method), which considers the multifractal spectrum recently discovered in Hi-C maps. Our pipeline finds that stable communities (under noise) typically have above-average internal contact frequencies and tend to be enriched in active chromatin marks. We also find they fold into more nested cross-scale hierarchies than less stable ones. Apart from presenting how to systematically extract robust communities in Hi-C data, our paper offers new ways to generate null models that take advantage of the network’s multifractal properties. We anticipate this has a broad applicability to several network applications.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         
-          <tr>
-            <th scope="row" style="width: 20%">Feb 14, 2024</th>
-            <td>
-              
-                <a class="news-title" href="/news/announcement_4/">We published a new article on arXiv!</a>
-              
-            </td>
-          </tr>
-        
-      </table>
-    </div>
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/stable-com-infographics-480.webp 480w,/assets/img/stable-com-infographics-800.webp 800w,/assets/img/stable-com-infographics-1400.webp 1400w," sizes="95vw" type="image/webp"></source>
+    
+    <img src="/assets/img/stable-com-infographics" class="img-fluid rounded z-depth-1" width="100%" height="auto" title="infographics" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+
   
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    An alluvial diagram illustrating how the node stability in the Hi-C networks changes between different chromosome scales. Most flow lines connect the same stability category (red to blue colors) or one nearby. This indicates that stability is a conserved property through the chromosomes' folding hierarchies (e.g., bottom, dark red). The bar charts on the left and right show the enrichment of the chromatin state. The three leftmost bars represent chromatin associated with active genomic regions (defined by histone modifications and DNA-binding proteins). This alluval argues that similar mechanisms drive the cross-scale folding on select parts of the chromosome.
 </div>
 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@article{hedstrom2024general,
+	title={Identifying stable communities in Hi-C using multifractal network modularity},
+  	author={Lucas Hedstr\"om and Ant\'on Carcedo Mart\'inez and Ludvig Lizana},
+  	journal={arXiv:2405.05425},
+  	year={2024},
+}
+</code></pre></div></div>
 
+
+    </div>
   </article>
 
   
 
+  
+    
+  
+
+  
   
 </div>
 
