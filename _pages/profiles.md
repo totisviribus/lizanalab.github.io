@@ -20,7 +20,7 @@ profiles:
     content: about_juhee.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Postdoc</p>
+      <p>Kempe Postdoc</p>
   - align: right
     image: moa.jpg
     content: about_moa.md
@@ -33,4 +33,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>PhD student</p>
+  - align: right
+    image: seong-gyu.jpg
+    content: about_seong-gyu.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Carl Trygger postdoc </p>
 ---

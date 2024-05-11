@@ -4,4 +4,5 @@ Starting his PhD studies in 2019, Lucas tries to understand the folding dynamics
 
 In his spare time Lucas enjoys choir singing, working on personal programming projects and listen to classical music.
 
- [Lucas' Google Scholar page](https://scholar.google.se/citations?view_op=search_authors&mauthors=Lucas+hedström&hl=en&oi=ao)
+ [Lucas' Google Scholar page](https://scholar.google.se/citations?hl=en&user=zEhWOwsAAAAJ)
+ &emsp; [personal website](https://lucashedstrom.com)

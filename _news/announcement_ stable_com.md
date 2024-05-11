@@ -11,7 +11,7 @@ related_posts: false
 ## Identifying stable communities in Hi-C using multifractal network modularity
 
 
-Lucas Hedström, Ant\'on Carcedo Mart\'inez,  and Ludvig Lizana, 
+Lucas Hedström, Antón Carcedo Martínez, and Ludvig Lizana, 
 
 [arXiv:2405.05425](https://arxiv.org/abs/2405.05425)
 
@@ -20,18 +20,18 @@ Chromosome capture techniques like Hi-C have expanded our understanding of mamma
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/stable-com-infographics" title="infographics" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/stable-com-infographics.jpg" title="infographics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    An alluvial diagram illustrating how the node stability in the Hi-C networks changes between different chromosome scales. Most flow lines connect the same stability category (red to blue colors) or one nearby. This indicates that stability is a conserved property through the chromosomes' folding hierarchies (e.g., bottom, dark red). The bar charts on the left and right show the enrichment of the chromatin state. The three leftmost bars represent chromatin associated with active genomic regions (defined by histone modifications and DNA-binding proteins). This alluval argues that similar mechanisms drive the cross-scale folding on select parts of the chromosome.
+    Alluvial diagram illustrating how the node stability in the Hi-C networks changes between different chromosome scales. Most flow lines connect the same stability category (red to blue colors) or one nearby. This indicates that stability is a conserved property through the chromosomes' folding hierarchies (e.g., bottom, dark red). The bar charts on the left and right show the enrichment of the chromatin state. The three leftmost bars represent chromatin associated with active genomic regions (defined by histone modifications and DNA-binding proteins). This alluval argues that similar mechanisms drive the cross-scale folding on select parts of the chromosome.
 </div>
 
 
 {% raw %}
 
 ```
-@article{hedstrom2024general,
+@article{hedstrom2024identifying,
 	title={Identifying stable communities in Hi-C using multifractal network modularity},
   	author={Lucas Hedstr\"om and Ant\'on Carcedo Mart\'inez and Ludvig Lizana},
   	journal={arXiv:2405.05425},

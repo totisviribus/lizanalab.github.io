@@ -391,8 +391,9 @@
 @article{lizana2024topology,
   title={The scales, mechanisms, and dynamics of the genome architecture},
   author={Ludvig Lizana and Yuri B. Schwartz},
-  journal={Science Advances (n press)},
+  journal={Science Advances},
   year={2024},
+  html={https://www.science.org/doi/full/10.1126/sciadv.adm8167},
   abstract = {Even when split into several chromosomes, DNA molecules that make up our genome are too long to fit into the cell nuclei unless massively folded. Such folding must accommodate the need for timely access to selected parts of the genome by transcription factors, RNA polymerases, and DNA replication machinery. Here we review our current understanding of the genome folding inside the interphase nuclei. We consider the resulting genome architecture at three scales and summarize the insights gained from recent experimental observations and diverse computational models.}
 }
 
@@ -403,5 +404,15 @@
   journal={arXiv:2402.09209},
   year={2024},
   abstract = {Cells regulate fates and complex body plans using spatiotemporal signaling cascades that al- ter gene expression. Enhancers, short DNA sequences (50-150 base pairs), help coordinate these cascades by attracting regulatory proteins to enhance the transcription of distal genes by bind- ing to promoters. In humans, there are hundreds of thousands of enhancers dispersed across the genome, which poses a challenging coordination task to prevent unintended gene activation. To mit- igate this problem, the genome contains additional DNA elements, insulators, that block enhancer- promoter interactions. However, there is an open problem with how the insulation works, especially as enhancer-insulator pairs may be separated by millions of base pairs. Based on recent empirical data from Hi-C experiments, this paper proposes a new mechanism that challenges the common paradigm that rests on specific insulator-insulator interactions. Instead, this paper introduces a stochastic looping model where enhancers bind weakly to surrounding chromatin. After calibrating the model to experimental data, we use simulations to study the broad distribution of hitting times between an enhancer and a promter when there are blocking insulators. In some cases, there is a large difference between average and most probable hitting times, making it difficult to assign a typical time scale, hinting at highly defocused regulation times. We also map our computational model onto a resetting problem that allows us to derive several analytical results. Besides offering new insights into enhancer-insulator interactions, our paper advances the understanding of gene regulatory networks and causal connections between genome folding and gene activation.},
+  selected={false}
+}
+
+@article{hedstrom2024identifying,
+  title={Identifying stable communities in Hi-C using multifractal network modularity},
+  author={Lucas Hedstr\"om and Antón Carcedo Martínez and Ludvig Lizana},
+  html={https://arxiv.org/abs/2405.05425},
+  journal={arXiv:2405.05425},
+  year={2024},
+  abstract = {Chromosome capture techniques like Hi-C have expanded our understanding of mammalian genome 3D architecture and how it influences gene activity. To analyze Hi-C data sets, researchers increasingly treat them as DNA-contact networks and use standard community detection techniques to identify mesoscale 3D communities. However, there are considerable challenges in finding significant communities because the Hi-C networks have cross-scale interactions and are almost fully connected.  This paper presents a pipeline to distill 3D communities that remain intact under experimental noise. To this end, we bootstrap an ensemble of Hi-C datasets representing noisy data and extract 3D communities that we compare with the unperturbed dataset. Notably, we extract the communities by maximizing local modularity (using the Generalized Louvain method), which considers the multifractal spectrum recently discovered in Hi-C maps. Our pipeline finds that stable communities (under noise) typically have above-average internal contact frequencies and tend to be enriched in active chromatin marks. We also find they fold into more nested cross-scale hierarchies than less stable ones. Apart from presenting how to systematically extract robust communities in Hi-C data, our paper offers new ways to generate null models that take advantage of the network's multifractal properties. We anticipate this has a broad applicability to several network applications.},
   selected={false}
 }
