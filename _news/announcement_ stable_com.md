@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-05-10 07:59:00-0400
-title: We published a new article on arXiv!
+title: New article on arXiv; "Identifying stable communities in Hi-C using multifractal network modularity"
 inline: false
 related_posts: false
 ---

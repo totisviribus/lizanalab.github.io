@@ -1,11 +1,10 @@
 ---
 layout: post
-date: 2024-02-14 07:59:00-0400
-title: We published a new article on arXiv!
+date: 2024-08-10 07:59:00-0400
+title: New plication on PRX Life; "Enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation"
 inline: false
 related_posts: false
 ---
-
 
 
 ## A general mechanism for enhancer-insulator pairing reveals heterogeneous dynamics in long-distant 3D gene regulation
